@@ -4,3 +4,6 @@ Chapter 1
 changed something...
 
 more changes
+
+this is the change that I am about to stage with bad commint message and then ammend it
+now improved
